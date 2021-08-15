@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to my repo. 👋
+
+- 🎓 I'm currently pursuing a Software(Computer Science) Bachelor's degree at Hanyang University 🇰🇷
+- ✨ I'm huge interested in starting up a startup.
+- 📱 I've an app that I made and I'm planning another service.
+[Fresh - 냉장고 유통기한 디데이](https://play.google.com/store/apps/details?id=com.kbwrefrigerator.refrigeratorlist)
 
 <!--
 **kohj1018/kohj1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
