@@ -1,6 +1,5 @@
 ### Welcome to my repo. 👋
 
-- 🎓 I'm currently pursuing a Software(Computer Science) Bachelor's degree at Hanyang University 🇰🇷
 - ✨ I'm huge interested in starting up a startup.
   
   
